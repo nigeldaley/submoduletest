@@ -1,0 +1,6 @@
+[submodule "postgres"]
+	path = postgres
+	url = git@github.com:ULCC/moodle-local_postgres_converter.git
+[submodule "reportsdash"]
+	path = reportsdash
+	url = git@github.com:ULCC/moodle-block_reportsdash.git
